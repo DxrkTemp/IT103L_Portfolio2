@@ -70,6 +70,15 @@ body {
   box-shadow: 0 6px 14px rgba(0,0,0,0.12);
 }
 
+.visual img {
+  width: 100%;
+  max-width: 850px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
 .info {
   padding: 60px 20px;
   background-color: #fafafa;
@@ -120,3 +129,4 @@ footer {
     font-size: 1.8rem;
   }
 }
+
